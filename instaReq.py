@@ -1,3 +1,6 @@
+__author__ = "Luis Suazo"
+__email__ = "luis.suazo@live.cl"
+
 import requests
 import json
 from bs4 import BeautifulSoup
