@@ -1,6 +1,6 @@
 # InstaReq
 
-Código para bajar datos de Instagram basado en un determinado Hashtag,
+Código para bajar datos de Instagram utilizando un Hashtag,
 realizado en python3.6
 
 ### Pre-requisitos 📋
