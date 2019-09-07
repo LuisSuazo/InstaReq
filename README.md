@@ -5,9 +5,9 @@ realizado en python3.6
 
 ### Pre-requisitos 📋
 
-BeautifulSoup
-requests
-json
+BeautifulSoup,
+requests,
+json y
 urllib
 
 Todo esto se instala mediante pip3
